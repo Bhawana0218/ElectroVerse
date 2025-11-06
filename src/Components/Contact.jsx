@@ -31,8 +31,8 @@ const Contact = () =>{
       {/* <div className="max-w-4xl mx-auto px-4"> */}
          <div
           className="absolute inset-0 w-full h-full object-cover mt-6">
-            <img src="https://img.freepik.com/premium-photo/modern-retail-store-interior-with-variety-gadgets-laptops-computers-counter_641503-101281.jpg?w=1380"
-        //  {/* <img src='https://png.pngtree.com/background/20230521/original/pngtree-commercial-electronics-store-of-many-screens-picture-image_2683696.jpg' */}
+        
+        <img src='https://png.pngtree.com/background/20230521/original/pngtree-commercial-electronics-store-of-many-screens-picture-image_2683696.jpg'
           className='w-full h-full object-cover'
           style={{filter: 'brightness(0.5) saturate(1.1)'}}/>
           <div className="absolute inset-0  bg-transparent bg-linear-to-r from-purple-400 to-pink-300 opacity-20"></div>
